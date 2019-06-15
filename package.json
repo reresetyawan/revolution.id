@@ -4,6 +4,7 @@
   "description": "In this example we will be deploying a simple \"Hello World\" example with PHP.",
   "main": "index.js",
   "scripts": {
+    "build": "npm start",
     "start":"node index.js"
   },
   "repository": {
