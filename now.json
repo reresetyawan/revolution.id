@@ -1,9 +1,7 @@
 {
-  "version": 1,
-  "builds": [
-    {
-      "src": "*.php",
-      "use": "@now/php"
-    }
-  ]
+    "version": 2,
+    "name": "php-7",
+    "builds": [
+        { "src": "*.php", "use": "@now/php" }
+    ]
 }
